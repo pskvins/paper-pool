@@ -2,8 +2,8 @@
 File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
-TA: Hyunbin Kim (khb7840@snu.ac.kr)
-Last Modified: 2021-09-01 13:14:16
+TA: Sukhwan Park (pskvins@snu.ac.kr)
+Last Modified: 2023-08-21 16:29:16
 ---
 
 # Advanced Bioinformatics 1
@@ -21,8 +21,7 @@ Last Modified: 2021-09-01 13:14:16
 
 ## Multiple sequence alignment (MSA)
 1. clustalomega [paper](https://www.embopress.org/doi/full/10.1038/msb.2011.75), [github](https://github.com/GSLBiotech/clustal-omega), [homepage](http://www.clustal.org/omega/)
-2. mafft [paper](https://academic.oup.com/mbe/article/30/4/772/1073398), [github](https://github.com/GSLBiotech/mafft), [homepage](https://mafft.cbrc.jp/alignment/software/)
-3. muscle [paper1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113), [paper2](https://academic.oup.com/nar/article/32/5/1792/2380623), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
+2. muscle [paper1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113), [paper2](https://academic.oup.com/nar/article/32/5/1792/2380623), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
 
 ## Homology search
 1. mmseqs2 [paper](https://www.nature.com/articles/nbt.3988), [github](https://github.com/soedinglab/MMseqs2)
@@ -42,8 +41,7 @@ Last Modified: 2021-09-01 13:14:16
 
 ## Phylogenetics
 1. raxml [paper](https://academic.oup.com/bioinformatics/article/30/9/1312/238053), [github](https://github.com/stamatak/standard-RAxML), [homepage](https://cme.h-its.org/exelixis//web/software/raxml/index.html)
-2. fasttree [paper1](https://academic.oup.com/mbe/article/26/7/1641/1128976),[paper2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009490), [homepage](http://www.microbesonline.org/fasttree/)
-3. iqtree [paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [github](https://github.com/Cibiv/IQ-TREE), [homepage](http://www.iqtree.org/)
+2. iqtree [paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [github](https://github.com/Cibiv/IQ-TREE), [homepage](http://www.iqtree.org/)
 
 ## RNA structure prediction
 1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
@@ -61,10 +59,9 @@ Last Modified: 2021-09-01 13:14:16
 4. bioconductor [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80), [paper2](https://www.nature.com/articles/nmeth.3252), [github](https://github.com/Bioconductor), [homepage](https://www.bioconductor.org/)
 
 ## Assembler
-1. spades [paper](https://www.liebertpub.com/doi/full/10.1089/cmb.2012.0021), [github](https://github.com/ablab/spades), [homepage](https://cab.spbu.ru/software/spades/)
-2. trinity [paper](https://www.nature.com/articles/nbt.1883), [github](https://github.com/trinityrnaseq/trinityrnaseq)
-3. flye [paper](https://www.nature.com/articles/s41587-019-0072-8), [github](https://github.com/fenderglass/Flye)
-4. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
+1. trinity [paper](https://www.nature.com/articles/nbt.1883), [github](https://github.com/trinityrnaseq/trinityrnaseq)
+2. flye [paper](https://www.nature.com/articles/s41587-019-0072-8), [github](https://github.com/fenderglass/Flye)
+3. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
 
 ## Read aligner
 1. hisat1+2 [paper](https://www.nature.com/articles/s41587-019-0201-4), [github](https://github.com/DaehwanKimLab/hisat2), [homepage](http://daehwankimlab.github.io/hisat2/)
