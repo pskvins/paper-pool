@@ -21,6 +21,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Multiple sequence alignment (MSA)
 1. clustalomega [paper](https://www.embopress.org/doi/full/10.1038/msb.2011.75), [github](https://github.com/GSLBiotech/clustal-omega), [homepage](http://www.clustal.org/omega/)
 2. muscle [paper1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113), [paper2](https://academic.oup.com/nar/article/32/5/1792/2380623), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
+3. Progressive Cactus [paper1](https://genome.cshlp.org/content/21/9/1512.short), [paper2](https://www.nature.com/articles/s41586-020-2871-y), [github](https://github.com/ComparativeGenomicsToolkit/cactus)
 
 ## Homology search
 1. mmseqs2 [paper](https://www.nature.com/articles/nbt.3988), [github](https://github.com/soedinglab/MMseqs2)
@@ -46,6 +47,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Protein structure
 1. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
 2. gromacs [paper](https://www.sciencedirect.com/science/article/pii/S2352711015000059?via%3Dihub), [github](https://github.com/gromacs/gromacs), [homepage](https://www.gromacs.org/)
+3. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
 
 ## Workflow and package
 1. nextflow [paper](https://www.nature.com/articles/nbt.3820), [github](https://github.com/nextflow-io/nextflow), [homepage](https://www.nextflow.io/)
@@ -72,3 +74,4 @@ Last Modified: 2023-08-21 16:29:16
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
 2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
+3. ProteinMPNN [paper](https://www.science.org/doi/10.1126/science.add2187), [github](https://github.com/dauparas/ProteinMPNN)
