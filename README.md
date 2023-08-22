@@ -27,6 +27,8 @@ Last Modified: 2023-08-21 16:29:16
 1. mmseqs2 [paper](https://www.nature.com/articles/nbt.3988), [github](https://github.com/soedinglab/MMseqs2)
 2. Diamond1+2 [paper1](https://www.nature.com/articles/s41592-021-01101-x), [paper2](https://www.nature.com/articles/nmeth.3176), [github](https://github.com/bbuchfink/diamond)
 3. HHblits [paper](https://www.nature.com/articles/nmeth.1818), [github](https://github.com/soedinglab/hh-suite)
+4. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
+5. tm-align [paper](https://academic.oup.com/nar/article/33/7/2302/2401364), [website](https://zhanggroup.org/TM-align/)
 
 ## Transcript
 1. kallisto [paper](https://www.nature.com/articles/nbt.3519), [github](https://github.com/pachterlab/kallisto), [homepage](https://pachterlab.github.io/kallisto/)
@@ -49,7 +51,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Protein structure
 1. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
 2. gromacs [paper](https://www.sciencedirect.com/science/article/pii/S2352711015000059?via%3Dihub), [github](https://github.com/gromacs/gromacs), [homepage](https://www.gromacs.org/)
-3. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
+3. ProteinMPNN [paper](https://www.science.org/doi/10.1126/science.add2187), [github](https://github.com/dauparas/ProteinMPNN)
 
 ## Workflow and package
 1. nextflow [paper](https://www.nature.com/articles/nbt.3820), [github](https://github.com/nextflow-io/nextflow), [homepage](https://www.nextflow.io/)
@@ -69,6 +71,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Language models
 1. ProtTrans [paper](https://ieeexplore.ieee.org/document/9477085), [github](https://github.com/agemagician/ProtTrans)
 2. ESM [paper](https://www.biorxiv.org/content/10.1101/622803v4), [github](https://github.com/facebookresearch/esm)
+3. MSA Transformer [paper](https://proceedings.mlr.press/v139/rao21a.html), [github](https://github.com/facebookresearch/esm)
 
 ## Variant caller
 1. freebayes [paper](https://arxiv.org/abs/1207.3907), [github](https://github.com/freebayes/freebayes)
@@ -77,4 +80,4 @@ Last Modified: 2023-08-21 16:29:16
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
 2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
-3. ProteinMPNN [paper](https://www.science.org/doi/10.1126/science.add2187), [github](https://github.com/dauparas/ProteinMPNN)
+3. 
