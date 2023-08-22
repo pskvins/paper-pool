@@ -35,10 +35,12 @@ Last Modified: 2023-08-21 16:29:16
 ## Metagenomics
 1. kraken-uniq [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-0), [github](https://github.com/fbreitwieser/krakenuniq)
 2. HUMAnN2 [paper](https://www.nature.com/articles/s41592-018-0176-y), [github](https://github.com/biobakery/humann), [homepage](https://huttenhower.sph.harvard.edu/humann2/)
+3. MetaEuk [paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x), [github](https://github.com/soedinglab/metaeuk)
 
 ## Phylogenetics
 1. raxml [paper](https://academic.oup.com/bioinformatics/article/30/9/1312/238053), [github](https://github.com/stamatak/standard-RAxML), [homepage](https://cme.h-its.org/exelixis//web/software/raxml/index.html)
 2. iqtree [paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [github](https://github.com/Cibiv/IQ-TREE), [homepage](http://www.iqtree.org/)
+3. MrBayes [paper](https://academic.oup.com/bioinformatics/article/17/8/754/235132), [homepage](https://nbisweden.github.io/MrBayes/index.html)
 
 ## RNA structure prediction
 1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
@@ -57,6 +59,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Assembler
 1. trinity [paper](https://www.nature.com/articles/nbt.1883), [github](https://github.com/trinityrnaseq/trinityrnaseq)
 2. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
+3. Verkko [paper](https://www.nature.com/articles/s41587-023-01662-6), [github](https://github.com/marbl/verkko/)
 
 ## Read aligner
 1. hisat1+2 [paper](https://www.nature.com/articles/s41587-019-0201-4), [github](https://github.com/DaehwanKimLab/hisat2), [homepage](http://daehwankimlab.github.io/hisat2/)
