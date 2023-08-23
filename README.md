@@ -21,7 +21,7 @@ Last Modified: 2023-08-23 16:01:03
 
 ## Multiple sequence alignment (MSA)
 1. clustalomega [paper](https://www.embopress.org/doi/full/10.1038/msb.2011.75), [github](https://github.com/GSLBiotech/clustal-omega), [homepage](http://www.clustal.org/omega/)
-2. muscle [paper1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113), [paper2](https://academic.oup.com/nar/article/32/5/1792/2380623), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
+2. Muscle5 [paper](https://www.nature.com/articles/s41467-022-34630-w), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
 3. Progressive Cactus [paper1](https://genome.cshlp.org/content/21/9/1512.short), [paper2](https://www.nature.com/articles/s41586-020-2871-y), [github](https://github.com/ComparativeGenomicsToolkit/cactus)
 
 ## Homology search
@@ -46,10 +46,14 @@ Last Modified: 2023-08-23 16:01:03
 2. iqtree [paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [github](https://github.com/Cibiv/IQ-TREE), [homepage](http://www.iqtree.org/)
 3. MrBayes [paper](https://academic.oup.com/bioinformatics/article/17/8/754/235132), [homepage](https://nbisweden.github.io/MrBayes/index.html)
 
+## RNA structure prediction
+1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
+
 ## Protein structure
 1. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
 2. gromacs [paper](https://www.sciencedirect.com/science/article/pii/S2352711015000059?via%3Dihub), [github](https://github.com/gromacs/gromacs), [homepage](https://www.gromacs.org/)
 3. ProteinMPNN [paper](https://www.science.org/doi/10.1126/science.add2187), [github](https://github.com/dauparas/ProteinMPNN)
+4. ESMFold [paper](https://www.science.org/doi/10.1126/science.ade2574), [github](https://github.com/facebookresearch/esm), [homepage](https://esmatlas.com/)
 
 ## Workflow and package
 1. nextflow [paper](https://www.nature.com/articles/nbt.3820), [github](https://github.com/nextflow-io/nextflow), [homepage](https://www.nextflow.io/)
@@ -58,8 +62,7 @@ Last Modified: 2023-08-23 16:01:03
 
 ## Assembler
 1. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
-2. Velvet [paper](https://genome.cshlp.org/content/18/5/821), [github](https://github.com/dzerbino/velvet)
-3. Verkko [paper](https://www.nature.com/articles/s41587-023-01662-6), [github](https://github.com/marbl/verkko/)
+2. Verkko [paper](https://www.nature.com/articles/s41587-023-01662-6), [github](https://github.com/marbl/verkko/)
 
 ## Read aligner
 1. hisat1+2 [paper](https://www.nature.com/articles/s41587-019-0201-4), [github](https://github.com/DaehwanKimLab/hisat2), [homepage](http://daehwankimlab.github.io/hisat2/)
@@ -80,4 +83,3 @@ Last Modified: 2023-08-23 16:01:03
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
 2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
 3. GTDB [paper1](https://academic.oup.com/nar/article/50/D1/D785/6370255), [paper2](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182), [github](https://github.com/ecogenomics/gtdbtk)
-4. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
