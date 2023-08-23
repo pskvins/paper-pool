@@ -3,7 +3,7 @@ File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Sukhwan Park (pskvins@snu.ac.kr)
-Last Modified: 2023-08-23 11:21:37
+Last Modified: 2023-08-23 16:01:03
 ---
 
 # Advanced Bioinformatics 1
