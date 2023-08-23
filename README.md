@@ -17,6 +17,7 @@ Last Modified: 2023-08-21 16:29:16
 ## Genome comparison
 1. mummer1-4 [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005944), [github](https://github.com/mummer4/mummer)
 2. mash [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x), [github](https://github.com/marbl/mash)
+3. FastANI [paper](https://www.nature.com/articles/s41467-018-07641-9), [github](https://github.com/ParBLiSS/FastANI)
 
 ## Multiple sequence alignment (MSA)
 1. clustalomega [paper](https://www.embopress.org/doi/full/10.1038/msb.2011.75), [github](https://github.com/GSLBiotech/clustal-omega), [homepage](http://www.clustal.org/omega/)
@@ -80,4 +81,4 @@ Last Modified: 2023-08-21 16:29:16
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
 2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
-3. 
+3. GTDB [paper1](https://academic.oup.com/nar/article/50/D1/D785/6370255), [paper2](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182), [github](https://github.com/ecogenomics/gtdbtk)
