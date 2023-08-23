@@ -34,20 +34,17 @@ Last Modified: 2023-08-23 11:21:37
 ## Transcript
 1. kallisto [paper](https://www.nature.com/articles/nbt.3519), [github](https://github.com/pachterlab/kallisto), [homepage](https://pachterlab.github.io/kallisto/)
 2. salmon [paper](https://www.nature.com/articles/nmeth.4197), [github](https://github.com/COMBINE-lab/salmon), [homepage](https://combine-lab.github.io/salmon/)
+3. Oases [paper](https://academic.oup.com/bioinformatics/article/28/8/1086/195757), [github](https://github.com/dzerbino/oases)
 
 ## Metagenomics
 1. kraken-uniq [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-0), [github](https://github.com/fbreitwieser/krakenuniq)
 2. HUMAnN2 [paper](https://www.nature.com/articles/s41592-018-0176-y), [github](https://github.com/biobakery/humann), [homepage](https://huttenhower.sph.harvard.edu/humann2/)
-3. MetaEuk [paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x), [github](https://github.com/soedinglab/metaeuk)
+3. Kaiju [paper](https://www.nature.com/articles/ncomms11257#Sec9), [github](https://github.com/bioinformatics-centre/kaiju), [homepage](https://bioinformatics-centre.github.io/kaiju/)
 
 ## Phylogenetics
 1. raxml [paper](https://academic.oup.com/bioinformatics/article/30/9/1312/238053), [github](https://github.com/stamatak/standard-RAxML), [homepage](https://cme.h-its.org/exelixis//web/software/raxml/index.html)
 2. iqtree [paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [github](https://github.com/Cibiv/IQ-TREE), [homepage](http://www.iqtree.org/)
 3. MrBayes [paper](https://academic.oup.com/bioinformatics/article/17/8/754/235132), [homepage](https://nbisweden.github.io/MrBayes/index.html)
-
-## RNA structure prediction
-1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
-2. Geometric deep learning of RNA structure [paper](https://www.science.org/doi/abs/10.1126/science.abe5650), [zenodo1](https://zenodo.org/record/5088971), [zenodo2](https://zenodo.org/record/5090151), [zenodo3](https://zenodo.org/record/5090157)
 
 ## Protein structure
 1. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
@@ -60,8 +57,8 @@ Last Modified: 2023-08-23 11:21:37
 3. bioconda [paper](https://www.nature.com/articles/s41592-018-0046-7), [github](https://github.com/bioconda)
 
 ## Assembler
-1. trinity [paper](https://www.nature.com/articles/nbt.1883), [github](https://github.com/trinityrnaseq/trinityrnaseq)
-2. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
+1. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
+2. Velvet [paper](https://genome.cshlp.org/content/18/5/821), [github](https://github.com/dzerbino/velvet)
 3. Verkko [paper](https://www.nature.com/articles/s41587-023-01662-6), [github](https://github.com/marbl/verkko/)
 
 ## Read aligner
@@ -77,8 +74,10 @@ Last Modified: 2023-08-23 11:21:37
 ## Variant caller
 1. freebayes [paper](https://arxiv.org/abs/1207.3907), [github](https://github.com/freebayes/freebayes)
 2. pilon [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [github](https://github.com/broadinstitute/pilon)
+3. Manta [paper](https://academic.oup.com/bioinformatics/article/32/8/1220/1743909?login=true), [github](https://github.com/Illumina/manta)
 
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
 2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
 3. GTDB [paper1](https://academic.oup.com/nar/article/50/D1/D785/6370255), [paper2](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182), [github](https://github.com/ecogenomics/gtdbtk)
+4. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
