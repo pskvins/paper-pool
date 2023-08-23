@@ -48,6 +48,8 @@ Last Modified: 2023-08-23 16:01:03
 
 ## RNA structure prediction
 1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
+2. R-scape [paper](https://www.nature.com/articles/nmeth.4066), [software](http://www.eddylab.org/software.html), [homepage](http://www.eddylab.org/R-scape/)
+3. UFold [paper](https://academic.oup.com/nar/article/50/3/e14/6430845), [github](https://github.com/uci-cbcl/UFold)
 
 ## Protein structure
 1. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
