@@ -3,7 +3,7 @@ File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Sukhwan Park (pskvins@snu.ac.kr)
-Last Modified: 2023-08-23 16:01:03
+Last Modified: 2023-09-01 13:07:09
 ---
 
 # Advanced Bioinformatics 1
@@ -11,7 +11,7 @@ Last Modified: 2023-08-23 16:01:03
 
 ## Annotation
 1. Augustus [paper](https://academic.oup.com/bioinformatics/article/27/6/757/234821), [github](https://github.com/Gaius-Augustus/Augustus)
-2. Maker [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-491), [homepage](https://www.yandell-lab.org/software/maker.html)
+2. BRAKER2 [paper](https://academic.oup.com/nargab/article/3/1/lqaa108/6066535), [github](https://github.com/Gaius-Augustus/BRAKER)
 3. Prodigal [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119), [github](https://github.com/hyattpd/Prodigal)
 
 ## Genome comparison
@@ -27,7 +27,7 @@ Last Modified: 2023-08-23 16:01:03
 ## Homology search
 1. mmseqs2 [paper](https://www.nature.com/articles/nbt.3988), [github](https://github.com/soedinglab/MMseqs2)
 2. Diamond1+2 [paper1](https://www.nature.com/articles/s41592-021-01101-x), [paper2](https://www.nature.com/articles/nmeth.3176), [github](https://github.com/bbuchfink/diamond)
-3. HHblits [paper](https://www.nature.com/articles/nmeth.1818), [github](https://github.com/soedinglab/hh-suite)
+3. HHblits [paper1](https://www.nature.com/articles/nmeth.1818), [paper2](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3019-7), [github](https://github.com/soedinglab/hh-suite)
 4. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
 5. tm-align [paper](https://academic.oup.com/nar/article/33/7/2302/2401364), [website](https://zhanggroup.org/TM-align/)
 
