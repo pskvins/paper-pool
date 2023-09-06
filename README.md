@@ -3,7 +3,7 @@ File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Sukhwan Park (pskvins@snu.ac.kr)
-Last Modified: 2023-09-01 13:07:09
+Last Modified: 2023-09-06 13:07:39
 ---
 
 # Advanced Bioinformatics 1
@@ -81,7 +81,10 @@ Last Modified: 2023-09-01 13:07:09
 2. pilon [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [github](https://github.com/broadinstitute/pilon)
 3. Manta [paper](https://academic.oup.com/bioinformatics/article/32/8/1220/1743909?login=true), [github](https://github.com/Illumina/manta)
 
+## Pangenomes
+1. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
+2. Minigraph [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02168-z), [github](https://github.com/lh3/minigraph)
+
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
-2. VG [paper](https://www.nature.com/articles/nbt.4227), [github](https://github.com/vgteam/vg)
-3. GTDB [paper1](https://academic.oup.com/nar/article/50/D1/D785/6370255), [paper2](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182), [github](https://github.com/ecogenomics/gtdbtk)
+2. GTDB [paper1](https://academic.oup.com/nar/article/50/D1/D785/6370255), [paper2](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182), [github](https://github.com/ecogenomics/gtdbtk)
