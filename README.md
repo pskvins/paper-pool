@@ -3,7 +3,7 @@ File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Sukhwan Park (pskvins@snu.ac.kr)
-Last Modified: 2023-09-06 13:07:39
+Last Modified: 2023-09-06 20:59:05
 ---
 
 # Advanced Bioinformatics 1
@@ -35,6 +35,7 @@ Last Modified: 2023-09-06 13:07:39
 1. kallisto [paper](https://www.nature.com/articles/nbt.3519), [github](https://github.com/pachterlab/kallisto), [homepage](https://pachterlab.github.io/kallisto/)
 2. salmon [paper](https://www.nature.com/articles/nmeth.4197), [github](https://github.com/COMBINE-lab/salmon), [homepage](https://combine-lab.github.io/salmon/)
 3. Oases [paper](https://academic.oup.com/bioinformatics/article/28/8/1086/195757), [github](https://github.com/dzerbino/oases)
+4. CellChat [paper](https://www.nature.com/articles/s41467-021-21246-9#Sec12), [github](https://github.com/sqjin/CellChat)
 
 ## Metagenomics
 1. kraken-uniq [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-0), [github](https://github.com/fbreitwieser/krakenuniq)
