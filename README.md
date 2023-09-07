@@ -3,11 +3,11 @@ File: README.md
 Lecture: Advanced Bioinformatics 1
 Professor: Martin Steinegger (martin.steinegger@snu.ac.kr)
 TA: Sukhwan Park (pskvins@snu.ac.kr)
-Last Modified: 2023-09-06 20:59:05
+Last Modified: 2023-09-07 12:07:45
 ---
 
 # Advanced Bioinformatics 1
-# The paper pool for Advanced Bioinformatics 2021
+# The paper pool for Advanced Bioinformatics 2023
 
 ## Annotation
 1. Augustus [paper](https://academic.oup.com/bioinformatics/article/27/6/757/234821), [github](https://github.com/Gaius-Augustus/Augustus)
